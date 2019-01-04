@@ -39,8 +39,8 @@ from numpy import *
 # In[2]:
 
 
-train = pd.read_csv('/Users/vadimbenichou/Desktop/ML-DSBA-AI-Assignment_2/Data/train.csv','rb',delimiter=';')
-test = pd.read_csv('/Users/vadimbenichou/Desktop/ML-DSBA-AI-Assignment_2/Data/test.csv','rb',delimiter=';')
+train = pd.read_csv('/Users/attyasseflora/Desktop/ML-DSBA-AI-Assignment_2/Data/train.csv','rb',delimiter=';')
+test = pd.read_csv('/Users/attyasseflora/Desktop/ML-DSBA-AI-Assignment_2/Data/test.csv','rb',delimiter=';')
 
 
 # In[3]:
